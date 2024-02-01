@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Directions",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
