@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "65bb28b6180b8d592a5b2fc2_65bb3790d294486519233217",
+  "id": "Directions_JSObject1",
   "unpublishedCollection": {
     "name": "JSObject1",
     "pageId": "Directions",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Directions_JSObject1",
-  "deleted": false,
-  "gitSyncId": "65bb28b6180b8d592a5b2fc2_65bb3790d294486519233217"
+    "variables": []
+  }
 }

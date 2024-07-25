@@ -1,4 +1,15 @@
 {
+  "appIsExample": false,
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FBF4ED",
+  "evaluationVersion": 2,
+  "icon": "basketball",
   "pages": [
     {
       "id": "Directions",
@@ -25,20 +36,9 @@
       "isDefault": false
     }
   ],
-  "viewMode": false,
-  "appIsExample": false,
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
     }
-  },
-  "color": "#FBF4ED",
-  "icon": "basketball",
-  "unpublishedCustomJSLibs": [],
-  "publishedCustomJSLibs": [],
-  "evaluationVersion": 2,
-  "applicationVersion": 2,
-  "collapseInvisibleWidgets": true,
-  "isManualUpdate": false,
-  "deleted": false
+  }
 }
